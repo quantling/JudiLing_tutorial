@@ -1,0 +1,16 @@
+**/.DS_Store
+
+# don't put data on Github
+dat/*
+!dat/.gitkeep
+
+# don't put generated results on Github
+res/*
+!res/.gitkeep
+
+# don't put figures on Github
+fig/*
+!fig/.gitkeep
+
+# don't put notebook checkpoints on Github
+.ipynb_checkpoints
