@@ -1,8 +1,8 @@
 # Readme
 
-This repository contains preliminary code and data from the book
+This repository contains code from the book
 
-Heitmeier, Chuang and Baayen (in preparation): The Discriminative Lexicon: Theory, Implementation in the Julia package JudiLing, and Applications.
+Heitmeier, Chuang and Baayen (2026): The Discriminative Lexicon: Theory, Implementation in the Julia package JudiLing, and Applications. Cambridge University Press.
 
 ## Installing Julia
 
@@ -42,7 +42,7 @@ A JudiLing cheatsheet can be found in `doc`.
 
 ## Data
 
-All datasets can be found at *link to OSF project* or links for downloading them are provided in the main manuscript. Please see attributions for all datasets at *link to OSF project*.
+All datasets can be found at https://osf.io/vpdt2/overview or links for downloading them are provided in the main manuscript. Please see attributions for all datasets at https://osf.io/vpdt2/overview. After cloning this repository, simply download all data from OSF and put it in the `dat` folder of this repository.
 
 ## Helpful links
 
